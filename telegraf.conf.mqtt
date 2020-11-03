@@ -1,0 +1,11 @@
+[[inputs.mqtt_consumer]]
+servers = ["tcp://127.0.0.1:1883"]
+
+topics = [
+  "ukirt/weather/#",
+]
+
+qos = 0
+data_format = "influx"
+
+
