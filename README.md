@@ -2,7 +2,7 @@
 EPICS channel archiver to Influxdb using python3, PyEpics, paho-mqtt and telegraf.
 
 # Dependencies
-	[PyEpics](https://pypi.org/project/pyepics/)
+  [PyEpics](https://pypi.org/project/pyepics/)
   [paho-mqtt](https://pypi.org/project/paho-mqtt/)
 
 # Source files
